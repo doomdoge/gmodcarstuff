@@ -1,0 +1,14 @@
+newmtl Extra21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Extra21_diff.png
+map_Kd Extra21_diff.png
+map_d Extra21_diff.png
+

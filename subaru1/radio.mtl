@@ -1,0 +1,38 @@
+newmtl Radio1Mtl
+Material Color
+Ka 0.0111261 0.0869013 0.493616
+Kd 0.0111261 0.0869013 0.493616
+Ks 0.00100353 0.00783815 0.0445222 
+
+d 1
+
+Ns 0
+
+newmtl Radio7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0901961 0.0901961 0.0901961 
+
+d 1
+
+Ns 0
+
+map_Ka Radio7_diff.png
+map_Kd Radio7_diff.png
+map_d Radio7_diff.png
+
+newmtl Radio2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0901961 0.0901961 0.0901961 
+
+d 1
+
+Ns 0
+
+map_Ka Radio2_diff.png
+map_Kd Radio2_diff.png
+map_d Radio2_diff.png
+

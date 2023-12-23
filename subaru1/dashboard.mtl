@@ -1,0 +1,14 @@
+newmtl Dashboard1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Dashboard1_diff.png
+map_Kd Dashboard1_diff.png
+map_d Dashboard1_diff.png
+

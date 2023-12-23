@@ -1,0 +1,14 @@
+newmtl WhiteVertexcustomHornRacingSteeringWheel1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka WhiteVertexcustomHornRacingSteeringWheel1_diff.png
+map_Kd WhiteVertexcustomHornRacingSteeringWheel1_diff.png
+map_d WhiteVertexcustomHornRacingSteeringWheel1_diff.png
+

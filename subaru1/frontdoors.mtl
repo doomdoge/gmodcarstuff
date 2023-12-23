@@ -1,0 +1,14 @@
+newmtl FrontDoors1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka FrontDoors1_diff.png
+map_Kd FrontDoors1_diff.png
+map_d FrontDoors1_diff.png
+

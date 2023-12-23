@@ -1,0 +1,24 @@
+newmtl Exhaust2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Exhaust2_diff.png
+map_Kd Exhaust2_diff.png
+map_d Exhaust2_diff.png
+
+newmtl Exhaust1Mtl
+Material Color
+Ka 0.425905 0.415148 0.394083
+Kd 0.425905 0.415148 0.394083
+Ks 0.168692 0.164431 0.156088 
+
+d 1
+
+Ns 0
+

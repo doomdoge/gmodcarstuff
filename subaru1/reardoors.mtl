@@ -1,0 +1,18 @@
+newmtl RearDoors1Mtl
+Material Color
+Ka 0.0169881 0.0169881 0.0169881
+Kd 0.0169881 0.0169881 0.0169881
+Ks 0.000466339 0.000466339 0.000466339 
+
+d 1
+
+Ns 0
+
+map_Ka RearDoors1_diff.png
+map_Kd RearDoors1_diff.png
+map_d RearDoors1_diff.png
+
+map_Bump RearDoors1_nmap.png
+
+map_Ns RearDoors1_spec.png
+
